@@ -25,7 +25,12 @@
 
 #### Guides
 - [UI5 and PhoneGap](http://jmurray.me/ui5-and-phonegap-first-steps-1-of-3/)
+- [Custom Icon Fonts](https://blogs.sap.com/2015/11/02/enhance-ui5-app-with-custom-icon-fonts/)
 
 #### Build Tools
 - [openui5-webpack](https://github.com/cevou/openui5-webpack)
 - [grunt-openui5](https://github.com/SAP/grunt-openui5)
+
+#### Conferences
+- [UI5con](http://openui5.org/ui5con/index.html)
+- [UI5con on Twitter](https://twitter.com/ui5con)
