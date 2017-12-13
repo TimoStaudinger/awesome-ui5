@@ -7,9 +7,18 @@
   <p>:sparkles: A curated list of awesome components, tools, guides and experiments around the SAPUI5/OpenUI5 framework.</p>
 </div>
 
-# Guides
+### OpenUI5
+#### Official Resources
+- [Website](http://openui5.org)
+- [API Docs](https://openui5.hana.ondemand.com/)
+- [Control Samples](https://openui5.hana.ondemand.com/#/controls)
+- [Demo Apps](https://openui5.hana.ondemand.com/#/demoapps)
+- [Tools](https://openui5.hana.ondemand.com/#/tools)
+- [GitHub Repo](https://github.com/SAP/openui5)
+
+#### Guides
 - [UI5 and PhoneGap](http://jmurray.me/ui5-and-phonegap-first-steps-1-of-3/)
 
-# Build Tools
+#### Build Tools
 - [openui5-webpack](https://github.com/cevou/openui5-webpack)
 - [grunt-openui5](https://github.com/SAP/grunt-openui5)
