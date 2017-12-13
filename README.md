@@ -10,11 +10,18 @@
 ### OpenUI5
 #### Official Resources
 - [Website](http://openui5.org)
+- [Blog](http://openui5.tumblr.com/)
 - [API Docs](https://openui5.hana.ondemand.com/)
 - [Control Samples](https://openui5.hana.ondemand.com/#/controls)
 - [Demo Apps](https://openui5.hana.ondemand.com/#/demoapps)
 - [Tools](https://openui5.hana.ondemand.com/#/tools)
 - [GitHub Repo](https://github.com/SAP/openui5)
+- [Versions & Maintenance Schedule](https://openui5.hana.ondemand.com/versionoverview.html)
+
+#### Community
+- [Slack](http://slackui5invite.herokuapp.com/)
+- [StackOverflow](https://stackoverflow.com/questions/tagged/sapui5)
+- [SAP Community Forum](https://www.sap.com/community/tag.html?id=500983881501772639608291559920477)
 
 #### Guides
 - [UI5 and PhoneGap](http://jmurray.me/ui5-and-phonegap-first-steps-1-of-3/)
