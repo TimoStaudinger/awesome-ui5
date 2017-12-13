@@ -7,6 +7,18 @@
   <p>:sparkles: A curated list of awesome components, tools, guides and experiments around the SAPUI5/OpenUI5 framework.</p>
 </div>
 
+### Table of Contents
+#### OpenUI5
+- [Official Resources](https://github.com/TimoSta/awesome-ui5#official-resources)
+- [Community](https://github.com/TimoSta/awesome-ui5#community)
+- [Guides](https://github.com/TimoSta/awesome-ui5#guides)
+- [Developer Tools](https://github.com/TimoSta/awesome-ui5#developer-tools)
+  - [Build](https://github.com/TimoSta/awesome-ui5#build)
+- [Conferences](https://github.com/TimoSta/awesome-ui5#conferences)
+
+#### SAPUI5
+- [Official Resources]
+
 ### OpenUI5
 #### Official Resources
 - [Website](http://openui5.org)
@@ -27,10 +39,15 @@
 - [UI5 and PhoneGap](http://jmurray.me/ui5-and-phonegap-first-steps-1-of-3/)
 - [Custom Icon Fonts](https://blogs.sap.com/2015/11/02/enhance-ui5-app-with-custom-icon-fonts/)
 
-#### Build Tools
+#### Developer Tools
+##### Build
 - [openui5-webpack](https://github.com/cevou/openui5-webpack)
 - [grunt-openui5](https://github.com/SAP/grunt-openui5)
 
 #### Conferences
 - [UI5con](http://openui5.org/ui5con/index.html)
 - [UI5con on Twitter](https://twitter.com/ui5con)
+
+### SAPUI5
+#### Official Resources
+- [API Docs](https://sapui5.hana.ondemand.com/#/api)
