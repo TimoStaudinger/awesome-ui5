@@ -39,6 +39,10 @@
 - [UI5 and PhoneGap](http://jmurray.me/ui5-and-phonegap-first-steps-1-of-3/)
 - [Custom Icon Fonts](https://blogs.sap.com/2015/11/02/enhance-ui5-app-with-custom-icon-fonts/)
 
+##### Custom Controls
+- [Custom Controls with Aggregation](https://blogs.sap.com/2017/03/25/ui5-custom-controls-with-aggregation/)
+- [Creating a Custom Control Library Part 1](https://blogs.sap.com/2016/12/15/sapui5-custom-control-library-web-ide-development-deployment-to-hcp-and-to-on-premise-abap-repository.-part-1./) | [Part 2](https://blogs.sap.com/2016/12/20/sapui5-custom-control-library-web-ide-development-deployment-to-hcp-and-to-on-premise-abap-repository.-part-2./)
+
 #### Developer Tools
 ##### Build
 - [openui5-webpack](https://github.com/cevou/openui5-webpack)
