@@ -40,7 +40,8 @@
 - [Custom Icon Fonts](https://blogs.sap.com/2015/11/02/enhance-ui5-app-with-custom-icon-fonts/)
 
 ##### Custom Controls
-- [Custom Controls with Aggregation](https://blogs.sap.com/2017/03/25/ui5-custom-controls-with-aggregation/)
+- [How to create a Custom UI5 Control](https://blogs.sap.com/2016/07/18/how-to-create-a-custom-ui5-control/)
+- [UI5 Custom Controls with Aggregation](https://blogs.sap.com/2017/03/25/ui5-custom-controls-with-aggregation/)
 - [Creating a Custom Control Library Part 1](https://blogs.sap.com/2016/12/15/sapui5-custom-control-library-web-ide-development-deployment-to-hcp-and-to-on-premise-abap-repository.-part-1./) | [Part 2](https://blogs.sap.com/2016/12/20/sapui5-custom-control-library-web-ide-development-deployment-to-hcp-and-to-on-premise-abap-repository.-part-2./)
 
 #### Developer Tools
