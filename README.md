@@ -36,6 +36,7 @@
 - [Slack](http://slackui5invite.herokuapp.com/)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/sapui5)
 - [SAP Community Forum](https://www.sap.com/community/tag.html?id=500983881501772639608291559920477)
+- [UI5Lab – Community-Driven Custom Components](http://ui5lab.io/)
 
 #### Guides
 - [UI5 and PhoneGap](http://jmurray.me/ui5-and-phonegap-first-steps-1-of-3/)
