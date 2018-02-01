@@ -13,6 +13,7 @@
 - [Community](https://github.com/TimoSta/awesome-ui5#community)
 - [Guides](https://github.com/TimoSta/awesome-ui5#guides)
   - [Custom Controls](https://github.com/TimoSta/awesome-ui5#custom-controls)
+  - [Operations](https://github.com/TimoSta/awesome-ui5#operations)
 - [Developer Tools](https://github.com/TimoSta/awesome-ui5#developer-tools)
   - [Boilerplate](https://github.com/TimoSta/awesome-ui5#boilerplate)
   - [Develop](https://github.com/TimoSta/awesome-ui5#develop)
@@ -44,6 +45,10 @@
 - [How to create a Custom UI5 Control](https://blogs.sap.com/2016/07/18/how-to-create-a-custom-ui5-control/)
 - [UI5 Custom Controls with Aggregation](https://blogs.sap.com/2017/03/25/ui5-custom-controls-with-aggregation/)
 - [Creating a Custom Control Library Part 1](https://blogs.sap.com/2016/12/15/sapui5-custom-control-library-web-ide-development-deployment-to-hcp-and-to-on-premise-abap-repository.-part-1./) | [Part 2](https://blogs.sap.com/2016/12/20/sapui5-custom-control-library-web-ide-development-deployment-to-hcp-and-to-on-premise-abap-repository.-part-2./)
+
+##### Operations
+- [CI/CD Best Practices for UI5 on SAP Cloud Platform](https://www.sap.com/developer/tutorials/ci-best-practices-fiori-sapcp.html)
+- [CI/CD Best Practices for UI5 on ABAP Front-End Server](https://www.sap.com/developer/tutorials/ci-best-practices-fiori-abap.html)
 
 #### Developer Tools
 ##### Boilerplate
