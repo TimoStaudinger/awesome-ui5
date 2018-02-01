@@ -17,7 +17,7 @@
 - [Developer Tools](https://github.com/TimoSta/awesome-ui5#developer-tools)
   - [Boilerplate](https://github.com/TimoSta/awesome-ui5#boilerplate)
   - [Develop](https://github.com/TimoSta/awesome-ui5#develop)
-  - [Build](https://github.com/TimoSta/awesome-ui5#build)
+  - [Build and Deploy](https://github.com/TimoSta/awesome-ui5#build-and-deploy)
   - [Debug](https://github.com/TimoSta/awesome-ui5#debug)
 - [Conferences](https://github.com/TimoSta/awesome-ui5#conferences)
 
@@ -58,9 +58,10 @@
 - [UI5 Plugin for IntelliJ WebStorm](https://plugins.jetbrains.com/plugin/10322-sap-open-ui5-development-plugin)
 - [UI5 Plugin for Sublime Text](https://github.com/qmacro/SublimeUI5)
 
-##### Build
-- [openui5-webpack](https://github.com/cevou/openui5-webpack)
-- [grunt-openui5](https://github.com/SAP/grunt-openui5)
+##### Build and Deploy
+- [Grunt OpenUI5 Plugin (official)](https://github.com/SAP/grunt-openui5)
+- [Grunt NW ABAP UI5 Uploader](https://www.npmjs.com/package/grunt-nwabap-ui5uploader)
+- [Webpack OpenUI5 Plugin](https://github.com/cevou/openui5-webpack)
 
 ##### Debug
 - [UI5 Inspector for Chrome](https://chrome.google.com/webstore/detail/ui5-inspector/bebecogbafbighhaildooiibipcnbngo?hl=en)
