@@ -12,12 +12,13 @@
 - [Official Resources](https://github.com/TimoSta/awesome-ui5#official-resources)
 - [Community](https://github.com/TimoSta/awesome-ui5#community)
 - [Guides](https://github.com/TimoSta/awesome-ui5#guides)
+  - [Custom Controls](https://github.com/TimoSta/awesome-ui5#custom-controls)
 - [Developer Tools](https://github.com/TimoSta/awesome-ui5#developer-tools)
+  - [Boilerplate](https://github.com/TimoSta/awesome-ui5#boilerplate)
+  - [Develop](https://github.com/TimoSta/awesome-ui5#develop)
   - [Build](https://github.com/TimoSta/awesome-ui5#build)
+  - [Debug](https://github.com/TimoSta/awesome-ui5#debug)
 - [Conferences](https://github.com/TimoSta/awesome-ui5#conferences)
-
-#### SAPUI5
-- [Official Resources]
 
 ### OpenUI5
 #### Official Resources
@@ -45,14 +46,20 @@
 - [Creating a Custom Control Library Part 1](https://blogs.sap.com/2016/12/15/sapui5-custom-control-library-web-ide-development-deployment-to-hcp-and-to-on-premise-abap-repository.-part-1./) | [Part 2](https://blogs.sap.com/2016/12/20/sapui5-custom-control-library-web-ide-development-deployment-to-hcp-and-to-on-premise-abap-repository.-part-2./)
 
 #### Developer Tools
+##### Boilerplate
+- [OpenUI5 Gulp Starter Kit](https://github.com/pulseshift/openui5-gulp-starter-kit)
+
+##### Develop
+- [UI5 Plugin for IntelliJ WebStorm](https://plugins.jetbrains.com/plugin/10322-sap-open-ui5-development-plugin)
+- [UI5 Plugin for Sublime Text](https://github.com/qmacro/SublimeUI5)
+
 ##### Build
 - [openui5-webpack](https://github.com/cevou/openui5-webpack)
 - [grunt-openui5](https://github.com/SAP/grunt-openui5)
 
+##### Debug
+- [UI5 Inspector for Chrome](https://chrome.google.com/webstore/detail/ui5-inspector/bebecogbafbighhaildooiibipcnbngo?hl=en)
+
 #### Conferences
 - [UI5con](http://openui5.org/ui5con/index.html)
 - [UI5con on Twitter](https://twitter.com/ui5con)
-
-### SAPUI5
-#### Official Resources
-- [API Docs](https://sapui5.hana.ondemand.com/#/api)
