@@ -57,6 +57,7 @@
 - [OpenUI5 Gulp Starter Kit](https://github.com/pulseshift/openui5-gulp-starter-kit)
 
 ##### Develop
+- [UI5 Autocomplete with Tern](https://github.com/TimoSta/tern-openui5)
 - [UI5 Plugin for IntelliJ WebStorm](https://plugins.jetbrains.com/plugin/10322-sap-open-ui5-development-plugin)
 - [UI5 Plugin for Sublime Text](https://github.com/qmacro/SublimeUI5)
 - [OData Explorer](https://openui5.blogspot.com/2017/12/odata-explorer.html)
