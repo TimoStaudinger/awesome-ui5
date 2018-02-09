@@ -59,6 +59,7 @@
 ##### Develop
 - [UI5 Plugin for IntelliJ WebStorm](https://plugins.jetbrains.com/plugin/10322-sap-open-ui5-development-plugin)
 - [UI5 Plugin for Sublime Text](https://github.com/qmacro/SublimeUI5)
+- [OData Explorer](https://openui5.blogspot.com/2017/12/odata-explorer.html)
 
 ##### Build and Deploy
 - [Grunt OpenUI5 Plugin (official)](https://github.com/SAP/grunt-openui5)
