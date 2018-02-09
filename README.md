@@ -42,6 +42,7 @@
 - [UI5 and PhoneGap](http://jmurray.me/ui5-and-phonegap-first-steps-1-of-3/)
 - [Custom Icon Fonts](https://blogs.sap.com/2015/11/02/enhance-ui5-app-with-custom-icon-fonts/)
 - [SAPUI5 Application Startup Performance – Best Practices](https://blogs.sap.com/2016/10/29/sapui5-application-startup-performance-best-practices/)
+- [How to build a Progressive Web App with OpenUI5](https://github.com/SAP/openui5-pwa-sample)
 
 ##### Custom Controls
 - [How to create a Custom UI5 Control](https://blogs.sap.com/2016/07/18/how-to-create-a-custom-ui5-control/)
