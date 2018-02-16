@@ -53,6 +53,9 @@
 - [CI/CD Best Practices for UI5 on SAP Cloud Platform](https://www.sap.com/developer/tutorials/ci-best-practices-fiori-sapcp.html)
 - [CI/CD Best Practices for UI5 on ABAP Front-End Server](https://www.sap.com/developer/tutorials/ci-best-practices-fiori-abap.html)
 
+##### Developer Tools
+- [How to export from WebIDE to Plunker](https://blogs.sap.com/2017/06/29/export-to-plunker-sap-web-ide-feature/)
+
 #### Developer Tools
 ##### Boilerplate
 - [OpenUI5 Gulp Starter Kit](https://github.com/pulseshift/openui5-gulp-starter-kit)
