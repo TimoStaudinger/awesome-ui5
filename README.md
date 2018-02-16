@@ -63,6 +63,7 @@
 - [UI5 Plugin for Sublime Text](https://github.com/qmacro/SublimeUI5)
 - [UI5 Plugin for VS Code](https://marketplace.visualstudio.com/items?itemName=milannankov.vscode-ui5)
 - [OData Explorer](https://openui5.blogspot.com/2017/12/odata-explorer.html)
+- [UI5 XML Schemas](https://github.com/ui5experts/ui5-schemas)
 
 ##### Build and Deploy
 - [Grunt OpenUI5 Plugin (official)](https://github.com/SAP/grunt-openui5)
