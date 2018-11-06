@@ -69,6 +69,7 @@
 - [UI5 XML Schemas](https://github.com/ui5experts/ui5-schemas)
 
 ##### Build and Deploy
+- [UI5 Build and Development Tooling (official)](https://github.com/SAP/ui5-tooling)
 - [Grunt OpenUI5 Plugin (official)](https://github.com/SAP/grunt-openui5)
 - [Grunt NW ABAP UI5 Uploader](https://www.npmjs.com/package/grunt-nwabap-ui5uploader)
 - [Webpack OpenUI5 Plugin](https://github.com/cevou/openui5-webpack)
